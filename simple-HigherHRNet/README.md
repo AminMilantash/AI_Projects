@@ -5,10 +5,10 @@ This is an unofficial implementation of the paper
 [*HigherHRNet: Scale-Aware Representation Learning for Bottom-Up Human Pose Estimation*](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_HigherHRNet_Scale-Aware_Representation_Learning_for_Bottom-Up_Human_Pose_Estimation_CVPR_2020_paper.pdf).  
 The code is a simplified version of the [official code](https://github.com/HRNet/HigherHRNet-Human-Pose-Estimation)
  with the ease-of-use in mind.
-# summary.txt
+### summary.txt
 This file save runtime of program and number of person on picture
 
-# keypoint.txt
+### keypoint.txt
 This file save joints of body
 
 The code is fully compatible with the
